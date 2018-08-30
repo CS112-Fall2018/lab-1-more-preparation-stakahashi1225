@@ -6,7 +6,10 @@ public class Arithmetic
 		int b = 4;
 		float x = 6;
 		float y = 8;
+<<<<<<< HEAD
 
+=======
+>>>>>>> 952c5a100fb9188aceff9a0ced6479cc281ec8cc
 		float tot1 = a + b;
 		float tot2 = a + x;
 		float tot3 = a + y;
@@ -18,7 +21,10 @@ public class Arithmetic
 		float divtot3 = a / y;
 		float divtot4 = b / x;
 		float divtot5 = b / y;
+<<<<<<< HEAD
 		
+=======
+>>>>>>> 952c5a100fb9188aceff9a0ced6479cc281ec8cc
 		System.out.println(tot1);
 		System.out.println(tot2);
 		System.out.println(tot3);
